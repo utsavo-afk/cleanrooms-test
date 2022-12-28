@@ -1,0 +1,48 @@
+.restaurant_name {
+  width: 49vw;
+  height: 60px;
+
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 31px;
+  color: #000000;
+}
+
+.right_section {
+  width: 18vw;
+  height: 100%;
+}
+
+.restaurant_QR_code {
+  width: 15vw;
+
+  white-space: initial;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+
+  border: 1px dashed #d61717;
+  padding: 2px 2px;
+
+  text-align: center;
+
+  /* Primary */
+
+  color: #d32323;
+}

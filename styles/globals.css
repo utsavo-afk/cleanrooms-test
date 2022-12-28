@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+
+@layer base {
+  @font-face {
+    font-family: 'Paprika';
+    font-style: normal;
+    src: url('/fonts/Paprika/Paprika-Regular.ttf');
+  }
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Inter';
+    src: url('/fonts/Inter/static/Inter-Bold.ttf');
+  }
+}
+
+div {
+  font-family: 'PT Sans';
+}

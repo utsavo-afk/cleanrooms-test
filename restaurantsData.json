@@ -1,0 +1,38 @@
+[
+  {
+    "restaurantAddress": "dummy address 10 dummy",
+    "restaurantCleanRating": 0,
+    "restaurantCostRating": 5,
+    "restaurantGeoCoords": {
+      "latitude": 12.93554458242256,
+      "longitude": 77.55425384998982
+    },
+    "restaurantImageURL": "https://firebasestorage.googleapis.com/v0/b/cleanrooms-ad8fb.appspot.com/o/cleanrooms_restaurant.webp?alt=media&token=f74b6d03-7235-4e2a-90b8-4019c825ab0d",
+    "restaurantLastCleanedAt": "December 7, 2022 at 5:33:28 AM UTC+5:30",
+    "restaurantMenuURL": "https://www.zomato.com/bangalore/meghana-foods-residency-road/menu",
+    "restaurantName": "dummy restaurant 20",
+    "restaurantPhoneNo": 9886677824,
+    "restaurantQrCode": "15$ off starters",
+    "restaurantTotalCleanRating": 0,
+    "restaurantType": "Restaurant",
+    "restaurantUtilities": ["baby changing area", "bidet", "female hygeine", "restroom"]
+  },
+  {
+    "restaurantAddress": "dummy address 11 dummy",
+    "restaurantCleanRating": 0,
+    "restaurantCostRating": 5,
+    "restaurantGeoCoords": {
+      "latitude": 12.937761364334268,
+      "longitude": 77.55871704543233
+    },
+    "restaurantImageURL": "https://firebasestorage.googleapis.com/v0/b/cleanrooms-ad8fb.appspot.com/o/cleanrooms_restaurant.webp?alt=media&token=f74b6d03-7235-4e2a-90b8-4019c825ab0d",
+    "restaurantLastCleanedAt": "December 7, 2022 at 5:33:28 AM UTC+5:30",
+    "restaurantMenuURL": "https://www.zomato.com/bangalore/meghana-foods-residency-road/menu",
+    "restaurantName": "dummy restaurant 21",
+    "restaurantPhoneNo": 9886677824,
+    "restaurantQrCode": "5$ off starters",
+    "restaurantTotalCleanRating": 0,
+    "restaurantType": "Restaurant",
+    "restaurantUtilities": ["baby changing area", "bidet", "female hygeine", "restroom"]
+  }
+]
